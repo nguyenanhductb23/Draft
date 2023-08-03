@@ -1,4 +1,4 @@
-# Draft
+# Multimedia Communications
 
 
-Repo này không có ý nghĩa gì đâu
+Môn học: Truyền thông đa phương tiện (INT3305)
